@@ -1,2 +1,2 @@
-# 1dollar.city
-1달러 시티 리포지토리
+# bansang.town
+반상타운 | 온라인 반상회 플랫폼
